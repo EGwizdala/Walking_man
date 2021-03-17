@@ -1,5 +1,5 @@
 # Walking_man
-Simple animation with walking character made with the use of sprite sheet. An excercise from advanced Frontend course.
+Simple animation with walking character made with the use of sprite sheet. An exercise from advanced Frontend course.
 
 ## Table of contents
 * [General info](#general-info)
@@ -21,27 +21,14 @@ The character goes and turns around at the end of the screen.
 * Written in Visual Studio Code
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+Link to project:
+https://egwizdala.github.io/Walking_man/
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is:_finished_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Based on Advanced frontend in 15 days by Samuraj Programowania on Udemy.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Emilia Gwizdala [emilia.gwizdala@gmail.com](https://www.flynerd.pl/) - feel free to contact me!
